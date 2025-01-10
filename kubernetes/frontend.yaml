@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: ronak1907/wanderlust-frontend:
+          image: ronak1907/wanderlust-frontend:6.0
           ports:
             - containerPort: 5173
 ---
